@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-##👨🏻‍💻  Who Me ?!
+## 👨🏻‍💻  Who Me ?!
 
 [📌] I'm a Software Engineering Student in College of Computer Science and Engineering.\n
 [💠] I'm in Love with Web Development and Mobile Programming. \n
