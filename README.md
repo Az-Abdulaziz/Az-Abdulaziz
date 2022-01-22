@@ -7,7 +7,7 @@
 <br>[🚀] I'm interested in ...
 
 <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/azabdulaziz//) 
+![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/azabdulaziz//) 
 
 
 [twitter]: https://twitter.com/iro_az1
