@@ -2,11 +2,13 @@
 
 ### 👨🏻‍💻  Who Is Me ?!
 
-<br>[📌] I'm a Software Engineering Student in College of Computer Science and Engineering.
-<br>[💠] I'm in Love with Web Development and Mobile Programming.
-<br>[🚀] I'm interested in Cloud Development, Software Project Managment and Machine Learning.
+<br>[📌] I'm a IT Student in College of Computing and Information Technology.
+<br>[💠] I'm Love Programming.
+<br>[🚀] I'm interested in ...
 
 <br />
+[linkedin]: https://linkedin.com/in/azabdulaziz/
+[twitter]: https://twitter.com/iro_az1
 <br />
 
 ---
