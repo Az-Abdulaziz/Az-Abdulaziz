@@ -5,9 +5,7 @@
 ##👨🏻‍💻  Who Me ?!
 
 [📌] I'm a Software Engineering Student in College of Computer Science and Engineering.
-
 [💠] I'm in Love with Web Development and Mobile Programming.
-
 [🚀] I'm interested in Cloud Development, Software Project Managment and Machine Learning.
 
 
