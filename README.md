@@ -1,4 +1,4 @@
-##  Hey there! I'm <br><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40"> Hey there! I'm
+##  ###<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40"> Hey there! I'm
 
 ### 👨🏻‍💻  Who Is Me ?!
 
