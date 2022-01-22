@@ -10,14 +10,16 @@
 <br />
 
 ---
+### 📝  Langs
 
-## 📝  Langs
+---
+### 🛠️  Techs
 
-## 🛠️  Techs
+---
+### ⚙️  GitHub Analytics
 
-## ⚙️  GitHub Analytics
-
-## 🤝🏻  Connect with Me
+---
+### 🤝🏻  Connect with Me
 
 <!--
 **Az-Abdulaziz/Az-Abdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
