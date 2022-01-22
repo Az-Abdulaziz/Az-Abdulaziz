@@ -4,9 +4,9 @@
 
 ## 👨🏻‍💻  Who Me ?!
 
-- [📌] I'm a Software Engineering Student in College of Computer Science and Engineering.
-[💠] I'm in Love with Web Development and Mobile Programming.
-[🚀] I'm interested in Cloud Development, Software Project Managment and Machine Learning.
+. [📌] I'm a Software Engineering Student in College of Computer Science and Engineering.
+. [💠] I'm in Love with Web Development and Mobile Programming.
+. [🚀] I'm interested in Cloud Development, Software Project Managment and Machine Learning.
 
 
 ## 📝  Langs
@@ -18,7 +18,7 @@
 
 ## 🤝🏻  Connect with Me
 
-
+<!--
 **Az-Abdulaziz/Az-Abdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
