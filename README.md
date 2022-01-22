@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40"> Hey there! I'm
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40"> ##Hey there! I'm
 
 ## 👨🏻‍💻  Who Is Me ?!
 
-+ [📌] I'm a Software Engineering Student in College of Computer Science and Engineering.
-+ [💠] I'm in Love with Web Development and Mobile Programming.
-+ [🚀] I'm interested in Cloud Development, Software Project Managment and Machine Learning.
+/ [📌] I'm a Software Engineering Student in College of Computer Science and Engineering.
+/ [💠] I'm in Love with Web Development and Mobile Programming.
+/ [🚀] I'm interested in Cloud Development, Software Project Managment and Machine Learning.
 
 
 ## 📝  Langs
