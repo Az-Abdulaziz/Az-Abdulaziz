@@ -2,15 +2,11 @@
 
 ### 👨🏻‍💻  Who Is Me ?!
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/95561087/150732702-e9c8a439-2e94-46e9-9e81-722a909c0686.png" width="500" height="500" />
-<br />
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/95561087/150732702-e9c8a439-2e94-46e9-9e81-722a909c0686.png" width="500" height="500">
 
 <br>[📌] I'm a IT Student in College of Computing and Information Technology.
 <br>[💠] I'm Love Programming.
 <br>[🚀] I'm interested in ...
-
-<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/azabdulaziz//) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Az-Abdulaziz)
