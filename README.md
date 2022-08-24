@@ -12,7 +12,7 @@
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/azabdulaziz//) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Az-Abdulaziz)
-<br />
+
 -->
 
 ---
@@ -47,12 +47,12 @@
 
 ---
 ### ⚙️  GitHub Analytics
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Az-Abdulaziz&show_icons=true&hide_border=true" />
 
-</details>
+</details>-->
 
 <details>
   <summary>:zap: Most Used Languages</summary>
