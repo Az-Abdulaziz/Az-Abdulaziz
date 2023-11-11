@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻  Who Is Me ?!
 <!-- https://user-images.githubusercontent.com/95561087/150732702-e9c8a439-2e94-46e9-9e81-722a909c0686.png  -->
-<img align="right" alt="GIF" src="https://drive.google.com/file/d/1qRinno7gJCuyZLwiQlU9gCiA8DZn8Qhi/view?usp=drive_link" width="400" height="400">
+<img align="right" alt="GIF" src="[https://drive.google.com/file/d/1qRinno7gJCuyZLwiQlU9gCiA8DZn8Qhi/view?usp=drive_link](https://ibb.co/6vHryZQ)" width="400" height="400">
 
 <br>[📌] Graduate of the Faculty of Computers, specializing in Information Technology.
 <br>[💠] I'm Love Programming.
@@ -11,7 +11,6 @@
 <br />
 <!--
 https://bio.link/iro_az
-
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://linkedin.com/in/azabdulaziz//) 
 -->
 <!--
@@ -27,9 +26,9 @@ https://bio.link/iro_az
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]()
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>]()
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]()
 <br>
 <br>
