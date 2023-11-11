@@ -1,12 +1,12 @@
-## <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40"> Hey there! I'm [Abdulaziz](https://www.google.com/)
+## <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40">I'm[Abdulaziz]((https://github.com/Az-Abdulaziz))
 
 ### 👨🏻‍💻  Who Is Me ?!
+<!-- https://user-images.githubusercontent.com/95561087/150732702-e9c8a439-2e94-46e9-9e81-722a909c0686.png  -->
+<img align="right" alt="GIF" src="https://drive.google.com/file/d/1qRinno7gJCuyZLwiQlU9gCiA8DZn8Qhi/view?usp=drive_link" width="400" height="400">
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/95561087/150732702-e9c8a439-2e94-46e9-9e81-722a909c0686.png" width="400" height="400">
-
-<br>[📌] I'm a IT Student in College of Computing and Information Technology.
+<br>[📌] Graduate of the Faculty of Computers, specializing in Information Technology.
 <br>[💠] I'm Love Programming.
-<br>[🚀] I'm interested in ...
+<br>[🚀] I'm interested in Website development, cybersecurity, and sports
 
 <br />
 <!--
@@ -23,39 +23,24 @@ https://bio.link/iro_az
 ---
 
 ### 📝  Langs
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](youtube)
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](youtube)
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](youtube)
-
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](youtube)
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](youtube)
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](youtube)
-
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](youtube)
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](youtube)
-
-[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](youtube)
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](youtube)
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](youtube)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]()
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>]()
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]()
 <br >
 
 <br />
 
-### 🛠️  Techs
+ <!--### 🛠️  Techs
 
----
+--->
 
-### 🤝🏻  Connect with Me
+ <!--### 🤝🏻  Connect with Me
 
-  <!--
 **Az-Abdulaziz/Az-Abdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -70,20 +55,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### ⚙️  GitHub Analytics
-<!--<details>
+<!--### ⚙️  GitHub Analytics
+<details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Az-Abdulaziz&show_icons=true&hide_border=true" />
-
-</details>-->
+</details> 
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-Abdulaziz" />
-
-</details>
+  <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-Abdulaziz" />
+</details>-->
 
 <br />
 <br />
