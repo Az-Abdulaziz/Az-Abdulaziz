@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻  Who Is Me ?!
 <!-- https://user-images.githubusercontent.com/95561087/150732702-e9c8a439-2e94-46e9-9e81-722a909c0686.png  -->
-<img align="right" alt="GIF" src="https://ibb.co/6vHryZQ" width="400" height="400">
+<img align="right" alt="GIF" src="https://github.com/Az-Abdulaziz/Az-Abdulaziz/assets/95561087/bc48465d-f130-4166-83ab-ab02202ab4df" width="400" height="400">
 
 <br>[📌] Graduate of the Faculty of Computers, specializing in Information Technology.
 <br>[💠] I'm Love Programming.
