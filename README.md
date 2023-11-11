@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻  Who Is Me ?!
 <!-- https://user-images.githubusercontent.com/95561087/150732702-e9c8a439-2e94-46e9-9e81-722a909c0686.png  -->
-<img align="right" alt="GIF" src="[https://drive.google.com/file/d/1qRinno7gJCuyZLwiQlU9gCiA8DZn8Qhi/view?usp=drive_link](https://ibb.co/6vHryZQ)" width="400" height="400">
+<img align="right" alt="GIF" src="https://ibb.co/6vHryZQ" width="400" height="400">
 
 <br>[📌] Graduate of the Faculty of Computers, specializing in Information Technology.
 <br>[💠] I'm Love Programming.
