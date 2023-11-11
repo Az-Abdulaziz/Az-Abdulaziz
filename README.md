@@ -31,15 +31,12 @@ https://bio.link/iro_az
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>]()
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]()
-<br >
+<br>
+<br>
 
-<br />
+ <!-- ### 🛠️  Techs -->
 
- <!--### 🛠️  Techs
-
---->
-
- <!--### 🤝🏻  Connect with Me
+ <!-- ### 🤝🏻  Connect with Me
 
 **Az-Abdulaziz/Az-Abdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,8 +51,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ---
-<!--### ⚙️  GitHub Analytics
+<!--
+### ⚙️  GitHub Analytics
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Az-Abdulaziz&show_icons=true&hide_border=true" />
@@ -64,7 +63,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-Abdulaziz" />
-</details>-->
+</details>
+-->
 
-<br />
-<br />
+<br>
+<br>
